@@ -1,0 +1,63 @@
+/* Empty. Add your own CSS if you like */
+
+body {
+	cursor: url('http://ionicfaramework.com/img/finger.png');
+}
+
+.star> .item-content {
+	background: #EEE8D6 !important;	
+}
+
+.branding {
+	width: 50%;
+	margin: 20px auto 0;
+	text-align: center;
+	max-width: 300px; 
+}
+
+.tagline {
+	font-size: 1.4rem;
+}
+
+.branding p {
+	margin-top: 10px;
+	font-size: 1rem;
+}
+
+.item-divider {
+	background: #eee8d6;
+}
+
+.bar-positive, .tabs-positive>.tabs {
+	background-color: #417d9a;
+	border-color: #417d9a;
+}
+
+.item-thumbnail-left img {
+	border-radius: 10px;
+}
+
+.item h3 {
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #417D9A;
+}
+
+.dayhighlight {
+	background-color: #9ec6de;
+	border-top: 20px solid #417D9A
+}
+
+.dayhighlight h2 {
+	color: #417d9a;
+	font-size: 2rem;
+	font-weight: 200;
+}
+
+.splash {
+	background: url(../img/skyline.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
